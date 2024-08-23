@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sublime-theme-generator/static/css/main.2267a458.css",
+    "main.js": "/sublime-theme-generator/static/js/main.1a32d0c6.js",
+    "static/js/453.a0f56b44.chunk.js": "/sublime-theme-generator/static/js/453.a0f56b44.chunk.js",
+    "index.html": "/sublime-theme-generator/index.html",
+    "main.2267a458.css.map": "/sublime-theme-generator/static/css/main.2267a458.css.map",
+    "main.1a32d0c6.js.map": "/sublime-theme-generator/static/js/main.1a32d0c6.js.map",
+    "453.a0f56b44.chunk.js.map": "/sublime-theme-generator/static/js/453.a0f56b44.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2267a458.css",
+    "static/js/main.1a32d0c6.js"
+  ]
+}
